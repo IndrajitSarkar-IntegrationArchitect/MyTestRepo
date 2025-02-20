@@ -1,4 +1,4 @@
 # MyTestRepo
 Test Repository
 
-new git stchanges
+new git changes
